@@ -8,6 +8,11 @@
 	url = https://github.com/mukul13/rechonest
 	shallow = true
 	registered = true
+[submodule "ROpenWeatherMap"]
+	path = ROpenWeatherMap
+	url = https://github.com/mukul13/ropenweathermap
+	shallow = true
+	registered = true
 [submodule "RYandexTranslate"]
 	path = RYandexTranslate
 	url = https://github.com/mukul13/ryandextranslate

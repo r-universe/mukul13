@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "ROpenWeatherMap",
+    "oncran": true
+  },
+  {
     "package": "RYandexTranslate",
     "oncran": true
   }
