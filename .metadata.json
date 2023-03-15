@@ -1,10 +1,10 @@
 [
   {
-    "package": "rechonest",
+    "package": "RYandexTranslate",
     "oncran": true
   },
   {
-    "package": "RYandexTranslate",
+    "package": "rechonest",
     "oncran": true
   }
 ]
