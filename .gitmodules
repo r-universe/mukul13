@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rechonest"]
-	path = rechonest
-	url = https://github.com/mukul13/rechonest
 [submodule "ROpenWeatherMap"]
 	path = ROpenWeatherMap
 	url = https://github.com/mukul13/ropenweathermap
 [submodule "RYandexTranslate"]
 	path = RYandexTranslate
 	url = https://github.com/mukul13/ryandextranslate
+[submodule "rechonest"]
+	path = rechonest
+	url = https://github.com/mukul13/rechonest
